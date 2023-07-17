@@ -5,4 +5,7 @@ matplotlib
 pydot
 flask
 statsmodels
-
+skorch
+torch
+xgboost
+lightgbm
